@@ -35,6 +35,9 @@ $(document).ready(function() {
 		if (/[=]+/gi.test($('.status-display').text())) {
 			$('.display').text('');
 			$('.status-display').text('');
+			first = '';
+			second = '';
+			action = '';
 		}
 		if (/[+\-×÷]/gi.test($('.display').text())) {
 			$('.display').text('');
