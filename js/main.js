@@ -93,6 +93,8 @@ $(document).ready(function() {
 			$('.status-display').text(left + ' = ' + calc);
 			$('.display').text(calc);
 			first = calc;
+			second = '';
+			action = '';
 		}
 	});
 
