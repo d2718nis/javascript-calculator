@@ -76,6 +76,7 @@ div {
 	border-radius: 3px;
 	background-color: #403b48;
 	border: 1px solid #312c39;
+	border-bottom: none;
 }
 .solar-panel-segment {
 	width: 32px;
