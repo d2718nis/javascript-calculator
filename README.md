@@ -2,7 +2,7 @@ JavaScript Calculator
 ==========
 JavaScript calculator app for the [freecodecamp](https://www.freecodecamp.com) challenge.
 * Github pages: https://d2718nis.github.io/javascript-calculator
-* Codepen.io: http://codepen.io/d2718nis/full/vmEyKV
+* Codepen.io: https://codepen.io/d2718nis/full/vmEyKV
 
 ![JavaScript Calculator](https://d2718nis.github.io/img/portfolio6.png "JavaScript Calculator")
 
