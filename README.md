@@ -26,9 +26,7 @@ Build a CodePen.io app that is functionally similar to [this](https://codepen.io
 
 Built with
 ----------
-* [JQuery](https://jquery.com) &#8212; a fast, small, and feature-rich JavaScript library
-* CSS3
-* HTML5
+* [jQuery](https://jquery.com) &#8212; a fast, small, and feature-rich JavaScript library
 
 
 Authors
